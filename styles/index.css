@@ -1,0 +1,13 @@
+/* Estilos para index */
+
+/* Navbar */
+/* Logo */
+.logo {
+  height: 48px;
+  width: auto;
+}
+
+/* Sombra */
+.shadow {
+  box-shadow: 0px 2px 32px 0px rgba(0, 0, 0, 0.10);w
+}
